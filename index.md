@@ -19,7 +19,6 @@ Kharagpur, India
 **Submission link: [click here](https://easychair.org/conferences/?conf=cardinal2023)**
 {: style="text-align: center"}
 
-
 ## Scope
 Recently, the rapid development of Unmanned Vehicles (UVs) such as Unmanned Ground Vehicles (UGVs) (i.e., robots) and Unmanned Aerial Vehicles (UAVs) (i.e., drones), has highlighted a myriad of new emergent applications such as infrastructure inspection and surveillance, smart agriculture, monitoring, search and rescue, parcel delivery, communications, and post-disaster recovery, just to mention a few.
 In all these novel applications, ground and aerial vehicles may jointly work together, and also coexist with ground Internet of Things (IoT) devices. 
