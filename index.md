@@ -1,6 +1,3 @@
-# Cost-effective Algorithms for Robots and Drones In Novel AppLications
-{: style="text-align: center"}
-
 # CARDINAL 2023
 {: style="text-align: center"}
 
