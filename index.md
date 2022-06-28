@@ -87,4 +87,3 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 ### Web Chair
 - **Lorenzo Palazzetti**: University of Florence, Italy
-
