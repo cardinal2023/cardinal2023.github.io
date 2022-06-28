@@ -27,7 +27,6 @@ Kharagpur, India
 
 
 ## Scope
-
 Recently, the rapid development of Unmanned Vehicles (UVs) such as Unmanned Ground Vehicles (UGVs) (i.e., robots) and Unmanned Aerial Vehicles (UAVs) (i.e., drones), has highlighted a myriad of new emergent applications such as infrastructure inspection and surveillance, smart agriculture, monitoring, search and rescue, parcel delivery, communications, and post-disaster recovery, just to mention a few.
 In all these novel applications, ground and aerial vehicles may jointly work together, and also coexist with ground Internet of Things (IoT) devices. 
 For instance, multiple UGVs can perform particular tasks relying on the IoT sensors' perceived data, while a swarm of UAVs can assist the UGVs relaying the collected data by the UGVs to the base station, in order to infer opportune decisions and take actions.
@@ -39,7 +38,6 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 {: style="text-align: justify"}
 
 ## Topics of Interest
-
 - 5G and 6G applications with UVs
 - Autonomous sensing via UVs
 - Topology monitoring with UVs
@@ -63,7 +61,6 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 
 ## Important dates
-
 - **Abstract Submission**: September 8th, 2022
 - **Paper Submission**: September 15th, 2022
 - **Acceptance Notification**: October 15th, 2022
@@ -72,7 +69,6 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 
 * * *
-
 
 ## Committees
 
