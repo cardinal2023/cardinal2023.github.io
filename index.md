@@ -30,6 +30,7 @@ For this workshop, we are looking for papers that combine the design of novel al
 The numerous emergent applications raised by IoT may require an interdisciplinary approach, involving techniques from algorithm foundations and different areas, such as computer networks, artificial intelligence, concurrent, parallel and distributed computing, networking, security, digital signal, image and sound processing.
 {: style="text-align: justify"}
 
+
 ## Topics of Interest
 - 5G and 6G applications with UVs
 - Autonomous sensing via UVs
