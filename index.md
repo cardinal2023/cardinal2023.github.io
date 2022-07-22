@@ -19,7 +19,7 @@ Kharagpur, India
 **co-located with [ICDCN 2023](https://cse.iitkgp.ac.in/conf/ICDCN23)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://easychair.org/conferences/submission_new?a=29193638)**
+**Submission link: [click here](https://easychair.org/conferences/submission_new?a=29224148)**
 {: style="text-align: center"}
 
 ## Scope
