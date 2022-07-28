@@ -38,7 +38,7 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 - 5G and 6G applications with UVs
 - Autonomous sensing via UVs
 - Topology monitoring with UVs
-- Remote sensing networks via UGs
+- Remote sensing networks via UVs
 - Communication protocols of UVs
 - Modeling and analysis of UVs
 - Precision agriculture and UVs
