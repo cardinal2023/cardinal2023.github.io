@@ -1,6 +1,3 @@
-# CARDINAL 2023
-{: style="text-align: center"}
-
 ![image](/logo.png)
 {: style="text-align: center"}
 
