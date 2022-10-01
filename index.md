@@ -55,12 +55,11 @@ The numerous emergent applications raised by IoT may require an interdisciplinar
 
 
 ## Important dates
-- **Abstract Submission**: September 8th, 2022
-- **Paper Submission**: September 15th, 2022
-- **Acceptance Notification**: October 15th, 2022
-- **Camera Ready**: October 31st, 2022
+- **Abstract Submission**: October 15th, 2022
+- **Paper Submission**: October 15th, 2022
+- **Acceptance Notification**: November 1st, 2022
+- **Camera Ready**: TBD
 - **Early Registration**: TBD
-
 
 * * *
 
