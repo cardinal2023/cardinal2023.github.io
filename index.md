@@ -16,7 +16,7 @@ Kharagpur, India
 **co-located with [ICDCN 2023](https://cse.iitkgp.ac.in/conf/ICDCN23)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://easychair.org/conferences/submission_new?a=29224148)**
+**Submission link: [click here](https://easychair.org/conferences/?conf=icdcn23)** (and select: Cost-effective Algorithms for Robots and Drones In Novel AppLications)
 {: style="text-align: center"}
 
 ## Scope
